@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/95508620/179648939-cc401cf5-0e51-4958-b05c-caba76f5c048.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Order-Summary-Component](https://github.com/En-route/Order-Summary-Component.git)
+- Live Site URL: [Order-Summary-Componen](https://en-route.github.io/Order-Summary-Component/)
 
 ## My process
 
@@ -40,11 +40,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
